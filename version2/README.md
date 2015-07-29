@@ -1,1 +1,1 @@
-ES6 Tutorial
+Sample Application written with React and built with Babel.
